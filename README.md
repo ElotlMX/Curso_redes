@@ -18,3 +18,9 @@ Colaborador de Comunidad Elotl, Facultad de Inegniería UNAM
 * Radial Basis Networks
 * AutoEnconders
 * Redes neuronales recurrentes
+
+## Videos (en proceso)
+
+Pueden consultarse videos sobre los temas en:
+
+https://www.youtube.com/playlist?list=PLU7812vud7zI910scXPQ_i8S9xeZ5c6JX
